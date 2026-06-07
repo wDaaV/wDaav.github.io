@@ -21,3 +21,10 @@ package-lock.json
 
 # Ignore files created by MacOS
 .DS_Store
+
+_config_dev.yml
+#terminale 1
+#printf 'url: ""\nbaseurl: ""\n' > _config_dev.yml
+#bundle exec jekyll build --watch --config _config.yml,_config_dev.yml
+#terminale 2
+#python3 -m http.server 4000 --directory _site --bind 0.0.0.0
