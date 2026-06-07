@@ -227,7 +227,7 @@ collections:
   #publications:
     #output: true
     #permalink: /:collection/:path/
-  Projects:
+  projects:
     output: true
     permalink: /:collection/:path/
   #talks:
