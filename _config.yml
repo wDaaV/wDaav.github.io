@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "it-IT"
+locale                   : "en-EN"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "wDaaV"
 title_separator          : "-"
@@ -16,7 +16,7 @@ description              : &description "Personal portfolio"   # Update this wit
 url                      : https://wdaav.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  :  # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/wDaaV/wDaav.github.io"
+repository               : "wDaaV/wDaav.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,8 +26,8 @@ author:
   avatar           : "profilepic.png"
   name             : "Davide Verditto"
   pronouns         : # example: "she/her"  
-  bio              : "B.Sc. graduate in Computer and Automation Engineering -- Polytecnic of Bari"
-  location         : "Alberobello (Ba)"
+  bio              : "B.Sc. graduate in Computer and Automation Engineering - Polytecnic of Bari"
+  location         : "Alberobello (Ba), Italy"
   employer         : 
   uri              : # URL
   email            : "davideverditto@gmail.com" 
@@ -95,7 +95,7 @@ author:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false      #change to true to add link to talkmap on talks page
 comments:
