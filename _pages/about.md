@@ -1,25 +1,22 @@
 ---
 permalink: /
-title: "About me"
-author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+# About me
+
 Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering. I'm a 23-year-old computer, music and motor enthusiast, looking for innovations and experiences.
 
 
-### Formazione
+## Education
 
-| Periodo | Titolo | Istituzione |
-|---------|--------|-------------|
-| 2020–2024 | Dottorato in Informatica | Università di  |
-| 2018–2020 | Laurea Magistrale in Informatica | Università di  |
-| 2016–2021 | Laurea Triennale in Informatica | Università di  |
+- Industrial Technical Diploma in Computer Science and Telecommunications, I.I.S.S "E. Majorana" Martina Franca (TA).
+- B.Sc. graduate in Computer and Automation Engineering, Polytechnic of Bari.
 
 
-## Progetti
+## Projects
 
 {% assign progetti = site.projects | sort: 'date' | reverse %}
 {% for progetto in progetti %}
@@ -30,8 +27,14 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 {% if progetto.link %}[🔗 Vai al progetto]({{ progetto.link }}){:target="_blank"}{% endif %}
 
----
 {% endfor %}
+
+## Certifications 
+
+- Introduction to Cybersecurity, provided by Cisco Networking Academy
+- MATLAB Onramp, provided by MathWorks
 
 ## CV
 
+- EN
+- IT

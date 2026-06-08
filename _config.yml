@@ -26,11 +26,11 @@ author:
   avatar           : "profilepic.png"
   name             : "Davide Verditto"
   pronouns         : # example: "she/her"  
-  bio              : "B.Sc. graduate in Computer and Automation Engineering - Polytecnic of Bari"
+  bio              : " " #"B.Sc. graduate in Computer and Automation Engineering - Polytecnic of Bari"
   location         : "Alberobello (Ba), Italy"
   employer         : 
   uri              : # URL
-  email            : "davideverditto@gmail.com" 
+  email            : "davideverditto@gmail.com"
 
   # Academic websites
   academia         : # URL
