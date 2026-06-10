@@ -12,13 +12,13 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 ## Education
 
-- Industrial Technical Diploma in Computer Science and Telecommunications, I.I.S.S "E. Majorana" Martina Franca (TA).
 - B.Sc. graduate in Computer and Automation Engineering, Polytechnic of Bari.
+- Industrial Technical Diploma in Computer Science and Telecommunications, I.I.S.S "E. Majorana" Martina Franca (TA).
 
 
 ## Projects
 
-{% assign progetti = site.projects | sort: 'date' | reverse %}
+{% assign progetti = site.projects | sort: 'order' %}
 {% for progetto in progetti %}
 
 ### [{{ progetto.title }}]({{ progetto.url | relative_url }})
