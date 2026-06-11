@@ -3,9 +3,10 @@ permalink: /
 redirect_from: 
   - /about/
   - /about.html
+title: "About me"
 ---
 
-# About me
+<div style="text-align: justify;" markdown="1">
 
 Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering. I'm a 23-year-old computer, music and motor enthusiast, looking for innovations and experiences.
 
@@ -18,7 +19,7 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 ## Projects
 
-{% assign progetti = site.projects | sort: 'order' %}
+{% assign progetti = site.projects | sort: 'order' | reverse %}
 {% for progetto in progetti %}
 
 ### [{{ progetto.title }}]({{ progetto.url | relative_url }})
@@ -36,5 +37,7 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 ## CV
 
-- EN
-- IT
+- [EN]()
+- [IT]()
+
+</div>
