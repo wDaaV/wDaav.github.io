@@ -38,6 +38,6 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 ## Curriculum Vitae
 
 - [EN](/files/davideverditto_cv_en.pdf){:target="_blank"}
-- [IT](/files/davideverditto_cv.pdf){:target="_blank"}
+- [IT](/files/davideverditto_cv_it.pdf){:target="_blank"}
 
 </div>
