@@ -34,6 +34,7 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 - Introduction to Cybersecurity, provided by Cisco Networking Academy
 - MATLAB Onramp, provided by MathWorks
+- 
 
 ## Curriculum Vitae
 
