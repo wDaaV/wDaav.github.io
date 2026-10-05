@@ -13,7 +13,7 @@ order: 1
 
 Digitalization in the healthcare sector is currently experiencing rapid growth. Consider, for example, how medical exams are still manually transcribed into IT systems, or how only since the recent pandemic have certain types of medical reports been transmitted electronically. Therefore, *Smart Medical Exam* has been designed to simplify the workflow of doctors and their staff, automate document management procedures, and facilitate patients' access to and use of these records.
 
-The *SME* prototype focuses on reading and converting individual medical reports and processed exam data into '.csv' files that can be easily imported into the database. A Python-based desktop application has been developed to support doctors in the automatic digitalization of these records. On the patient side, a mobile application has been developed to provide access to the reports recorded by doctors.
+The *SME* prototype focuses on reading and converting individual medical reports and processed exam data into '.csv' files that can be easily imported into the database. A Python-based desktop application with a Tkinter GUI has been developed to support doctors in the automatic digitalization of these records: it uses OCR (Tesseract) to convert scanned reports into '.csv' files, which are then uploaded to a Linux server via SCP/SSH and stored in a MySQL relational database. On the patient side, an Android mobile application, built with App Inventor, has been developed to provide access to the reports recorded by doctors.
 
 For further information or access to the documentation, please contact me via [email](mailto:davideverditto).
 

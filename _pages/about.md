@@ -13,6 +13,7 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 ## Education
 
+- M.Sc. student in Telecommunications and Internet Technologies Engineering curriculum Cyber Security, Polytechnic of Bari
 - B.Sc. graduate in Computer and Automation Engineering, Polytechnic of Bari.
 - Industrial Technical Diploma in Computer Science and Telecommunications, I.I.S.S "E. Majorana" Martina Franca (TA).
 
@@ -34,7 +35,7 @@ Hello there. I'm Davide, a B.Sc. graduate in Computer and Automation Engineering
 
 - Introduction to Cybersecurity, provided by Cisco Networking Academy
 - MATLAB Onramp, provided by MathWorks
-- 
+- Pre Security Learning Path, provided by Try Hack Me
 
 ## Curriculum Vitae
 

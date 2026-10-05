@@ -5,7 +5,7 @@ collection: projects
 order: 4
 ---
 
-This project focused on the design of a system-level simulation framework for evaluating link performance in LEO satellite networks, developed in the MATLAB 5G Toolbox™ environment and compliant with 3GPP technical specifications (TR 38.821 and TR 36.763).
+This thesis project focused on the design of a system-level simulation framework for evaluating link performance in LEO satellite networks, developed in the MATLAB 5G Toolbox™ environment and compliant with 3GPP technical specifications (TR 38.821 and TR 36.763).
 
 The work was structured across multiple layers:
 
